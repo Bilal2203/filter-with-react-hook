@@ -1,0 +1,50 @@
+.btn {
+	/* border-style: none; */
+	cursor: pointer;
+	width: 150px;
+	margin: 10px 0;
+	font-size: large;
+}
+
+.btn:hover {
+	color: rgb(212, 0, 255);
+}
+
+.btn-group {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 25px;
+}
+
+.App{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.container{
+  display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.btn1{
+  width: 150px;
+  margin: 50px;
+  font-size: x-large;
+  background-color: rgb(212, 30, 203) ;
+  margin-left:  30px;
+}
+
+.age{
+  border: 1px solid rgb(0, 0, 0);
+  width: 120px;
+  height: 25px;
+}
+.users:hover{
+  color: rgb(245, 139, 0);
+}
+.users{
+  text-align: center;
+  margin: 100px;
+}

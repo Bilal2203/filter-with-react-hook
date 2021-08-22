@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Filter/static/css/main.889c756a.chunk.css",
+    "main.js": "/Filter/static/js/main.4b5a4a43.chunk.js",
+    "main.js.map": "/Filter/static/js/main.4b5a4a43.chunk.js.map",
+    "runtime-main.js": "/Filter/static/js/runtime-main.57d7c0dd.js",
+    "runtime-main.js.map": "/Filter/static/js/runtime-main.57d7c0dd.js.map",
+    "static/js/2.007b7ac1.chunk.js": "/Filter/static/js/2.007b7ac1.chunk.js",
+    "static/js/2.007b7ac1.chunk.js.map": "/Filter/static/js/2.007b7ac1.chunk.js.map",
+    "index.html": "/Filter/index.html",
+    "static/css/main.889c756a.chunk.css.map": "/Filter/static/css/main.889c756a.chunk.css.map",
+    "static/js/2.007b7ac1.chunk.js.LICENSE.txt": "/Filter/static/js/2.007b7ac1.chunk.js.LICENSE.txt",
+    "static/media/brazil.7663881f.jpg": "/Filter/static/media/brazil.7663881f.jpg",
+    "static/media/japan.e36e355e.jpg": "/Filter/static/media/japan.e36e355e.jpg",
+    "static/media/kanada.d8deb79f.jpg": "/Filter/static/media/kanada.d8deb79f.jpg",
+    "static/media/kazak.a83d75b4.jpg": "/Filter/static/media/kazak.a83d75b4.jpg",
+    "static/media/kyrgyz.40c2ff17.jpg": "/Filter/static/media/kyrgyz.40c2ff17.jpg",
+    "static/media/kyrgyz.g.6ee6e81e.jpg": "/Filter/static/media/kyrgyz.g.6ee6e81e.jpg",
+    "static/media/russia.e4d741db.jpg": "/Filter/static/media/russia.e4d741db.jpg",
+    "static/media/turkish.210a848f.jpg": "/Filter/static/media/turkish.210a848f.jpg",
+    "static/media/uk.66ef59f4.jpg": "/Filter/static/media/uk.66ef59f4.jpg",
+    "static/media/usa.ea8ad082.jpg": "/Filter/static/media/usa.ea8ad082.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d7c0dd.js",
+    "static/js/2.007b7ac1.chunk.js",
+    "static/css/main.889c756a.chunk.css",
+    "static/js/main.4b5a4a43.chunk.js"
+  ]
+}
